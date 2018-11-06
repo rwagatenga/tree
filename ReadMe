@@ -1,0 +1,8 @@
+Install Xampp 5.7 from https://www.apachefriends.org/download.html
+install composer from https://getcomposer.org/download/
+register php and composer in system environment 
+go in cmd and type cd..\.. to go on the root of local Disk C
+and type cd xampp\htdocs
+git clone https://github.com/rwagatenga/tree.git
+and type composer install 
+and php artisan migrate
